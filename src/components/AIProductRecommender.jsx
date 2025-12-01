@@ -4,7 +4,7 @@ import React, { useState } from "react";
 // Replace AI_API_ENDPOINT and AI_API_KEY with your chosen AI endpoint (Gemini / OpenAI / other).
 
 const AI_API_ENDPOINT = "https://api.example.com/v1/recommend"; // <-- REPLACE
-const AI_API_KEY = "AIzaSyAM8qssdwRuEi9kFQRTCvjoEzeNvIyvka8"; 
+const AI_API_KEY = "A"; 
 
 // Example product catalog (this is the list displayed in the UI)
 const PRODUCTS = [
